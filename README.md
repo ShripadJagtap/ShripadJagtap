@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shripad Jagtap</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shripadjagtap&label=Profile%20views&color=0e75b6&style=flat" alt="shripadjagtap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shripadjagtap&label=Profile%20views&color=720eb4&style=flat-square" alt="shripadjagtap" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shripadjagtap" alt="shripadjagtap" /></a> </p>
 
 - 🔭 I’m currently working on **AI based Home automation using opencv**
 
@@ -27,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shripadjagtap&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shripadjagtap" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shripadjagtap&show_icons=true&theme=radical&locale=en" alt="shripadjagtap" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shripadjagtap&show_icons=true&theme=onedark&locale=en" alt="shripadjagtap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shripadjagtap&theme=highcontrast" alt="shripadjagtap" /></p>
