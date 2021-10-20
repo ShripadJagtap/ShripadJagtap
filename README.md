@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shripadjagtap&show_icons=true&theme=highcontrast&locale=en" alt="shripadjagtap" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shripadjagtap&theme=default" alt="shripadjagtap" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shripadjagtap&theme=dark" alt="shripadjagtap" /></p>
