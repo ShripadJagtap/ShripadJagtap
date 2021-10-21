@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Drinking water with a minty mouth is the cold version of spicy 🤯**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="lef">
 <a href="https://linkedin.com/in/shripad-jagtap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shripad-jagtap" height="30" width="40" /></a>
 <a href="https://instagram.com/69shripad420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="69shripad420" height="30" width="40" /></a>
 <a href="https://discord.gg/tZBZmjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tZBZmjg" height="30" width="40" /></a>
